@@ -5,3 +5,5 @@ pillow
 numpy
 pandas
 joblib
+gdown
+huggingface_hub
